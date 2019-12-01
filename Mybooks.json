@@ -3,20 +3,20 @@
         "Authors": "Eric Matthes",
         "Language": "English",
         "Pages": "544",
-        "isbn": "9781593279288"
+        "ISBN": "9781593279288"
     },
     {
         "title": "Mastering Object-Oriented Python",
         "Authors": "Steven F. Lott",
         "Language": "English",
         "Pages": "770",
-        "isbn": "9781789531367"
+        "ISBN": "9781789531367"
     },
     {
         "title": "Expert Python Programming",
         "Authors": "Michal Jaworski, Tarek Ziade",
         "Language": "English",
         "Pages": "646",
-        "isbn": "9781789808896"
+        "ISBN": "9781789808896"
     }
 ]
