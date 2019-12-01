@@ -1,0 +1,23 @@
+<books>
+   <book id="b1">
+     <Title>Python Crash Course</Title>
+     <Authors>Eric Matthes</Authors>
+     <Language>English</Language>
+     <Pages>544</Pages>
+     <ISBN>9781593279288</ISBN>
+   </book> 
+   <book id="b2">
+     <Title>Mastering Object-Oriented Python</Title>
+     <Authors>Steven F. Lott</Authors>
+     <Language>English</Language>
+     <Pages>770</Pages>
+     <ISBN>9781789531367</ISBN>
+   </book>
+   <book id="b3">
+     <Title>Expert Python Programming</Title>
+     <Authors>Michal Jaworski, Tarek Ziade</Authors>
+     <Language>English</Language>
+     <Pages>646</Pages>
+     <ISBN>9781789808896</ISBN>
+   </book> 
+</books>
