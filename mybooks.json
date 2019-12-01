@@ -1,0 +1,22 @@
+[{
+        "Title": "Python Crash Course",
+        "Authors": "Eric Matthes",
+        "Language": "English",
+        "Pages": "544",
+        "ISBN": "9781593279288"
+    },
+    {
+        "Title": "Mastering Object-Oriented Python",
+        "Authors": "Steven F. Lott",
+        "Language": "English",
+        "Pages": "770",
+        "ISBN": "9781789531367"
+    },
+    {
+        "Title": "Expert Python Programming",
+        "Authors": "Michal Jaworski, Tarek Ziade",
+        "Language": "English",
+        "Pages": "646",
+        "ISBN": "9781789808896"
+    }
+]
